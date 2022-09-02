@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 700px;
+    min-height: 700px;
+    margin: 0 auto;
+    background-color: #ddd;
+   
+}
+.title{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    color: #000;
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.sticky{
+    height: 50px;
+    width: 100%;
+    background-color: #fff;
+}
+.x{
+    margin: 20px 0 0 70px;
+    font-size: 1.1rem;
+    font-family:serif;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+
+}
+.x:hover{
+    color: green;
+    text-decoration: underline red;
+} 
