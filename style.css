@@ -40,3 +40,13 @@
     color: green;
     text-decoration: underline red;
 } 
+.imgs{
+    width: 600px;
+    min-height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.a{
+    width: 295px;
+    
+}
